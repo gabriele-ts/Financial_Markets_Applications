@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import math
 import quandl
-def quandl_data(dataset,col_name,collapse="daily", key="eY51mj69BzDt2VXszsHd"):
+def quandl_data(dataset,col_name,collapse="daily", key="digit_your_key"):
     """
     import quandl dataset: close,open,high,low,volume
     """
